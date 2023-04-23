@@ -55,7 +55,7 @@ an unpredictable PRG is secure
 
 Let G: K——> ${0,1}^n$ be PRG
 
-"Thm": if $\forall i \in {0,1...,n-1} $ PRG G is unspredictable at position i then G is a secure PRG. 
+"Thm": if $ \forall i \in {0,1...,n-1} $ PRG G is unspredictable at position i then G is a secure PRG. 
 
 </b>
 </i>
